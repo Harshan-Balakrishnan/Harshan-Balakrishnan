@@ -133,25 +133,69 @@ My approach is simple: learn the fundamentals, apply them in real projects, and 
 
 ## 🚀 Selected Projects
 
-### 01 · TriClarity — Document Intelligence & Accessibility Auditing
+A selection of projects that show how I'm applying software development and data skills to practical problems.
 
-An HND computing project concept focused on analysing document quality, accessibility and multilingual readiness, with a focus on Sinhala, Tamil and English public-service documents.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Harshan-Balakrishnan/lanka-lottery-voice">
+        <img src="https://raw.githubusercontent.com/Harshan-Balakrishnan/lanka-lottery-voice/main/file_0000000066788211955866ab83f3c897.png" width="100%" alt="Lanka Lottery Voice prototype preview" />
+      </a>
+      <h3>🇱🇰 Lanka Lottery Voice</h3>
+      <p>A photo-first, voice-friendly multilingual prototype concept for helping people navigate Sri Lankan lottery-ticket information in Tamil, Sinhala and English.</p>
+      <p><strong>Tech:</strong> TypeScript · JavaScript · PWA</p>
+      <p><strong>Status:</strong> Prototype — not production-ready. No live official results integration or verified prize engine yet.</p>
+      <a href="https://github.com/Harshan-Balakrishnan/lanka-lottery-voice">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Harshan-Balakrishnan/Sales-Data-Analysis-project-using-Python">
+        <img src="https://raw.githubusercontent.com/Harshan-Balakrishnan/Sales-Data-Analysis-project-using-Python/main/images/1.png" width="100%" alt="Sales data analysis chart" />
+      </a>
+      <h3>📊 Sales Data Analysis</h3>
+      <p>Exploring retail sales, profit, categories and regional performance using a sample Superstore dataset.</p>
+      <p><strong>Tech:</strong> Python · Pandas · Matplotlib · Seaborn · Jupyter</p>
+      <p><strong>Focus:</strong> Data cleaning, aggregation, visualisation and communicating business insights.</p>
+      <a href="https://github.com/Harshan-Balakrishnan/Sales-Data-Analysis-project-using-Python">Explore notebook & analysis →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Harshan-Balakrishnan/ai-fintech-dashboard">
+        <img src="https://raw.githubusercontent.com/Harshan-Balakrishnan/ai-fintech-dashboard/main/assets/dashboardscreen.png" width="100%" alt="AI Fintech Dashboard interface preview" />
+      </a>
+      <h3>💳 AI Fintech Dashboard</h3>
+      <p>A front-end financial dashboard concept with an improved layout, navigation, sidebar and interactive interface elements.</p>
+      <p><strong>Tech:</strong> HTML · Tailwind CSS · JavaScript</p>
+      <p><strong>Status:</strong> Front-end concept; not presented as a production AI or financial service.</p>
+      <a href="https://github.com/Harshan-Balakrishnan/ai-fintech-dashboard">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Harshan-Balakrishnan/Janushan-Ice-Cream-Van-Manager">
+        <img src="https://raw.githubusercontent.com/Harshan-Balakrishnan/Janushan-Ice-Cream-Van-Manager/main/assets/menu-banner.webp" width="100%" alt="Janushan Ice Cream brand and product banner" />
+      </a>
+      <h3>🍦 Janushan Ice Cream Van Manager</h3>
+      <p>A mobile-first installable business PWA concept for multilingual van operations, product catalogue, sales, stock, expenses and reconciliation.</p>
+      <p><strong>Tech:</strong> JavaScript · PWA · Supabase</p>
+      <p><strong>Focus:</strong> Practical workflow design, role-based access and offline-aware operations.</p>
+      <a href="https://github.com/Harshan-Balakrishnan/Janushan-Ice-Cream-Van-Manager">Explore repository →</a>
+    </td>
+  </tr>
+</table>
 
-**Areas being explored:** PDF analysis, accessibility checks, Unicode and language support, and automated reporting.
+### 🎓 TriClarity — HND Computing Project
 
-*Status: In project planning and development. Details will be updated as implementation progresses.*
+A project in development exploring PDF accessibility and multilingual Unicode compliance for public-service documents, with a focus on Sinhala, Tamil and English.
 
-### 02 · Janushan Ice Cream — Business Website
+**Planned areas:** document inspection, accessibility checks, language and Unicode readiness, and structured audit reports.
 
-A website project for a Sri Lankan family ice-cream business, applying software development to a real business context.
+*Status: Project planning / development. This is not yet presented as a completed or released product.*
 
-[View repository →](https://github.com/Harshan-Balakrishnan/JanushanIceCream_Website)
+### More experiments
 
-### 03 · SwiftDrive Rentals — Rental Management Web Application
+- [Loom Aura — front-end fashion e-commerce demo](https://github.com/Harshan-Balakrishnan/Loom-Aura)
+- [Personal Portfolio — website source](https://github.com/Harshan-Balakrishnan/Personal_Portfolio)
 
-An academic web application involving vehicle listings, customer authentication, booking workflows and a PHP/MySQL database.
-
-*Status: Academic project.*
+> Project descriptions reflect the current repository documentation. Prototypes and concepts are labelled clearly; they should not be mistaken for production services.
 
 ---
 
