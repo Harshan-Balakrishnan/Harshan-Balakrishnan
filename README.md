@@ -138,9 +138,6 @@ A selection of projects that show how I'm applying software development and data
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Harshan-Balakrishnan/lanka-lottery-voice">
-        <img src="https://raw.githubusercontent.com/Harshan-Balakrishnan/lanka-lottery-voice/main/file_0000000066788211955866ab83f3c897.png" width="100%" alt="Lanka Lottery Voice prototype preview" />
-      </a>
       <h3>🇱🇰 Lanka Lottery Voice</h3>
       <p>A photo-first, voice-friendly multilingual prototype concept for helping people navigate Sri Lankan lottery-ticket information in Tamil, Sinhala and English.</p>
       <p><strong>Tech:</strong> TypeScript · JavaScript · PWA</p>
@@ -189,6 +186,14 @@ A project in development exploring PDF accessibility and multilingual Unicode co
 **Planned areas:** document inspection, accessibility checks, language and Unicode readiness, and structured audit reports.
 
 *Status: Project planning / development. This is not yet presented as a completed or released product.*
+
+### Business website case study
+
+**Janushan Ice Cream — business website**
+
+A production-oriented website and Firebase-backed admin CMS for a Sri Lankan family business. The repository is being moved out of the public portfolio, while the public-facing website can still be viewed.
+
+[Visit the live website →](https://janushan-ice-cream-website.vercel.app)
 
 ### More experiments
 
