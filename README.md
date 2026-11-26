@@ -157,16 +157,6 @@ A selection of projects that show how I'm applying software development and data
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Harshan-Balakrishnan/ai-fintech-dashboard">
-        <img src="https://raw.githubusercontent.com/Harshan-Balakrishnan/ai-fintech-dashboard/main/assets/dashboardscreen.png" width="100%" alt="AI Fintech Dashboard interface preview" />
-      </a>
-      <h3>💳 AI Fintech Dashboard</h3>
-      <p>A front-end financial dashboard concept with an improved layout, navigation, sidebar and interactive interface elements.</p>
-      <p><strong>Tech:</strong> HTML · Tailwind CSS · JavaScript</p>
-      <p><strong>Status:</strong> Front-end concept; not presented as a production AI or financial service.</p>
-      <a href="https://github.com/Harshan-Balakrishnan/ai-fintech-dashboard">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/Harshan-Balakrishnan/Janushan-Ice-Cream-Van-Manager">
         <img src="https://raw.githubusercontent.com/Harshan-Balakrishnan/Janushan-Ice-Cream-Van-Manager/main/assets/menu-banner.webp" width="100%" alt="Janushan Ice Cream brand and product banner" />
       </a>
